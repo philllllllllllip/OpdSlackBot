@@ -1,0 +1,6 @@
+# Requirements for OPD Slack Alert Bot
+# Install with: pip install -r requirements.txt
+
+requests>=2.25.0
+xmltodict>=0.12.0
+python-dateutil>=2.8.0
